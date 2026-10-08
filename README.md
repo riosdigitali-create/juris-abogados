@@ -1,6 +1,6 @@
 # Juris Abogados
 
-Demo de despacho jurídico solicitada por Ismael: sistema de GM y fondo de Antisarro Shop, WhatsApp 8115191418.
+Demo de despacho jurídico solicitada por Ismael: sistema de GM y fondo de Antisarro Shop, WhatsApp 8120406211.
 
 ## Referencias reutilizadas
 
@@ -13,7 +13,7 @@ Demo de despacho jurídico solicitada por Ismael: sistema de GM y fondo de Antis
 - Asistente con respuestas programadas, sin IA ni consulta de legislación en tiempo real.
 - Solicitud de cita por WhatsApp, pendiente de confirmación; recordatorio Google Calendar con zona America/Mexico_City.
 - No conecta la agenda privada de GM ni reutiliza la ubicación de GM. No registra automáticamente citas ni genera enlaces Meet.
-- Todos los contactos de WhatsApp apuntan a `https://wa.me/528115191418`.
+- Todos los contactos de WhatsApp apuntan a `https://wa.me/528120406211`.
 - Sitio estático; los textos del caso permanecen en el navegador hasta que el visitante decide abrir WhatsApp. No hay base de datos ni almacenamiento de casos.
 
 ## Validación
